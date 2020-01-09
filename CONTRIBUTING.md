@@ -2,9 +2,10 @@
 
 ## Contributing a game
 
-If you want to contribute a game to JuliaGaming then please follow the following guidelines.
+If you want to contribute a game to [JuliaGaming](https://github.com/JuliaGaming) then please follow the following guidelines.
 
 - Make sure the game is made in Julia.
+- Make sure that game is not currently existing in the organisation's repositories.
 - The game can use any packages.
 - The game should be safe for children to play (ie. no obscene, _unsafe_ graphics or text)
 - The README file should follow the detailed format:
